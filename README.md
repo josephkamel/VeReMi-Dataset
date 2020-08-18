@@ -1,7 +1,7 @@
 # VeReMi-Dataset
 VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs
 
-[Download Link](https://bit.ly/2ZlNpM7 "VeReMi Dataset")
+[Download Link](https://bit.ly/2Q4AZUU "VeReMi Dataset")
 
 The scientific publication is available on [ResearchGate](https://www.researchgate.net/publication/340547411_VeReMi_Extension_A_Dataset_for_Comparable_Evaluation_of_Misbehavior_Detection_in_VANETs). If you find this dataset useful in your research, please consider citing:
 
